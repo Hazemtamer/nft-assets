@@ -1,0 +1,11 @@
+{
+  "name": "Zoma Gold Crypto Coin #4",
+  "description": "A digital gold coin asset for Zoma project",
+  "image": "https://github.com/Hazemtamer/nft-assets/blob/main/Zoma%20Gold%20Crypto%20Coin.png?raw=true",
+  "attributes": [
+    {
+      "trait_type": "Material",
+      "value": "Gold"
+    }
+  ]
+}
